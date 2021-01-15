@@ -1,2 +1,2 @@
 # heart-disease-detection
-using kaggle's heart disease dataset, I used machine learning to detect if a patient is diagnosed with a cardiovasuclar disease or not. 
+Using the Random Forest Classifier model, I detect whether a patient is diagnosed with any cardiovascular diseases or not.
